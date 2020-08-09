@@ -3,7 +3,6 @@
 Turning on a weak light in dark room compared to weak light in bright room 
 Perceived value when comparing the difference of a 90% increase in salary: 900 increase salary on 1000, compared to a 11% increase in salary: 900 increase on 10000 salary. In both situations, you're increasing your salary by the same... but in the former, it's a large change percentage wise. 
 
-
 ### <unknown principle> 
 
 The difference in goods that are *held for use* vs. *held for exchange*. 
