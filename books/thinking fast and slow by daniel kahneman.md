@@ -1,4 +1,4 @@
-![thinking fast and slow](/books/daniel kahneman - thinking fast and slow/daniel kahneman - thinking fast and slow.jpg)
+![thinking fast and slow](/books/daniel kahneman - thinking fast and slow.jpg)
 
 ### Principle of Diminishing Sensitivity 
 
